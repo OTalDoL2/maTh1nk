@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.exe
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.deps.json
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.runtimeconfig.json
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.dll
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\bin\Debug\netcoreapp3.1\MaThink.pdb
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.AssemblyInfo.cs
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.dll
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.pdb
+C:\Users\lucas\Desktop\ESTUDOS E ALGORITMOS\Algoritmos\MaThink\obj\Debug\netcoreapp3.1\MaThink.genruntimeconfig.cache
